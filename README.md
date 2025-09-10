@@ -1,6 +1,6 @@
 # BacDive Oxygen Tolerance Data Fetcher
 
-This repository contains a Python script to fetch oxygen tolerance data for given microbial species or genera from [BacDive](https://bacdive.dsmz.de/) using their API. BacDive publishes its data under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This repository contains a Python script to fetch oxygen tolerance data for given microbial species or genera from [BacDive](https://bacdive.dsmz.de/) using their API. BacDive publishes its data under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please contact the BacDive team for commercial use of their data. 
 
 ## Usage
 
@@ -26,3 +26,6 @@ Install dependencies with:
 ```bash
 pip install bacdive pandas
 ```
+
+## Licence
+This repository is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
